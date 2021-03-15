@@ -5,4 +5,5 @@ int main()
 	printf("hi");
 	printf("hi2");
 	printf("hi3");
+	printf("기능1추가");
 }
